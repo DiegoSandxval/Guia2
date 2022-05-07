@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">guiaa2</string>
+    <string name="digita_las_horas_trabajadas">Digita las horas trabajadas</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="horas_trabajadas">Horas trabajadas</string>
+    <string name="calcula">Calcula</string>
+    <string name="tu_salario_es">Tu salario es</string>
+</resources>
